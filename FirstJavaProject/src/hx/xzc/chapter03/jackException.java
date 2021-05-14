@@ -7,5 +7,6 @@ public class jackException extends Exception {
 		System.out.println(message);
 		//super(message);
 		// TODO �Զ����ɵĹ��캯�����
+		System.out.println("异常类测试");
 	}
 }

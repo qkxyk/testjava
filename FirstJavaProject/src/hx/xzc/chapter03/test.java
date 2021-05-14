@@ -12,5 +12,6 @@ public class test {
 		} catch (jackException e) {
 			System.out.println("设计出错");
 		}
+		System.out.println("第一次测试");
 	}
 }
